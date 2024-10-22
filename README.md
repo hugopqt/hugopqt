@@ -7,9 +7,9 @@
 [![Tech Entrepreneur](https://img.shields.io/badge/Tech_Entrepreneur-orange)](#)
 
 ## 📫 Contact me 
-[![E-mail](https://img.shields.io/badge/E--mail-blue)](mailto:hugo@bebity.io)
+[![E-mail](https://img.shields.io/badge/E--mail-blue)](mailto:hugo@blanche.agency)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/hugo-picquet/)
-[![Bebity: Your Favorite Web Agency](https://img.shields.io/badge/Bebity_🥇_Your_Favorite_Web_Agency-orange)](https://bebity.io)
+[![Bebity: Your Favorite Web Agency](https://img.shields.io/badge/Blanche Agency🥇_Your_Favorite_Web_Agency-orange)](https://blanche.agency)
 
 ## 🎓 About my studies
 - Self-Educated: Lifelong learner and tech entrepreneur with expertise in web 2 and 3.
