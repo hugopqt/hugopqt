@@ -14,8 +14,8 @@
 
 ## 🎓 About my studies
 - Self-Educated: Lifelong learner and tech entrepreneur with expertise in web 2 and 3.
-- Bachelor of Science: Cyber Security at CU London University (3 years, with GPA 4.0 🌞)
-- EPITECH (Europeean Institute of Technology, 1 Year Intense Coding C, Python, Bash & more)
+- Bachelor of Science: Cyber Security at CU London University (3y, with GPA 4.0 🌞)
+- EPITECH (Europeean Institute of Technology, 1y Coding C, Python, Bash & more)
 
 ## 💡 Coding Knowledge
 | BackEnd           | FrontEnd           | 
